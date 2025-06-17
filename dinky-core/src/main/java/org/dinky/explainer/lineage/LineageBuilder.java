@@ -19,7 +19,6 @@
 
 package org.dinky.explainer.lineage;
 
-import org.dinky.data.model.LineageRel;
 import org.dinky.executor.Executor;
 import org.dinky.executor.ExecutorConfig;
 import org.dinky.executor.ExecutorFactory;
